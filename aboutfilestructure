@@ -1,3 +1,3 @@
-i decided to uise a basic file structure that is easy to understand and to correct in case  of a bug or a problem in any section of the project
-this way if for example ther is a problem on the home page header you can open the folder and correct the mistake in the header folder without interacting with the footer or body of the website
+i decided to use a basic file structure that is easy to understand and to correct in case  of a bug or a problem in any section of the project
+this way if for example there is a problem on the home page header you can open the folder and correct the mistake in the header folder without interacting with the footer or body of the website
 i expect you to be aqiunted with the react js format or the django format which is similar to what i do here but ill try keep it as simp[le as possible
